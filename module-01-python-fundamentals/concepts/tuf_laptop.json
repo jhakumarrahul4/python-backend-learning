@@ -1,0 +1,38 @@
+{
+  "brand": "ASUS",
+  "series": "TUF Gaming",
+  "model": "FX506HF",
+  "price": 64990,
+  "is_gaming_laptop": true,
+  "specifications": {
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5-11400H",
+      "cores": 6,
+      "threads": 12,
+      "base_speed": "2.7 GHz"
+    },
+    "memory": {
+      "ram": 16,
+      "ram_type": "DDR4",
+      "storage": 512,
+      "storage_type": "SSD"
+    },
+    "graphics": {
+      "brand": "NVIDIA",
+      "model": "GTX 2050",
+      "vram": 4
+    },
+    "display": {
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "refresh_rate": 144
+    }
+  },
+  "ports": ["USB Type-A", "USB Type-C", "HDMI", "Ethernet", "3.5mm Audio Jack"],
+  "features": ["RGB Keyboard", "Cooling System", "Wi-Fi 6", "Bluetooth"],
+  "battery": {
+    "capacity": 48,
+    "unit": "Wh"
+  }
+}
